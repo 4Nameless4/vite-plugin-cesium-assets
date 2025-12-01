@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-cesium-mini",
+  "name": "vite-plugin-cesium-assets",
   "version": "1.0.0",
   "description": "Cesium plugin for Vite",
   "main": "./lib/index.cjs",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4Nameless4/vite-plugin-cesium-mini.git"
+    "url": "git+https://github.com/4Nameless4/vite-plugin-cesium-assets.git"
   },
   "bugs": {
-    "url": "https://github.com/4Nameless4/vite-plugin-cesium-mini/issues"
+    "url": "https://github.com/4Nameless4/vite-plugin-cesium-assets/issues"
   },
-  "homepage": "https://github.com/4Nameless4/vite-plugin-cesium-mini#readme",
+  "homepage": "https://github.com/4Nameless4/vite-plugin-cesium-assets#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^29.0.0",
     "@rollup/plugin-json": "^6.1.0",

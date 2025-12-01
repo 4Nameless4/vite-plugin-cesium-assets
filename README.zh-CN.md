@@ -10,12 +10,12 @@
 通过 NPM 安装插件：
 
 ```
-npm install --save-dev vite-plugin-cesium-mini
+npm install --save-dev vite-plugin-cesium-assets
 ```
 
 ```js
 import { defineConfig } from "vite";
-import cesium from "vite-plugin-cesium-mini";
+import cesium from "vite-plugin-cesium-assets";
 
 export default defineConfig({
   plugins: [cesium()],

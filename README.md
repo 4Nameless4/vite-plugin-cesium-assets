@@ -10,12 +10,12 @@ It automatically copies Cesium's static files (Assets, Workers, ThirdParty, Widg
 Install the plugin with NPM:
 
 ```
-npm install --save-dev vite-plugin-cesium-mini
+npm install --save-dev vite-plugin-cesium-assets
 ```
 
 ```js
 import { defineConfig } from "vite";
-import cesium from "vite-plugin-cesium-mini";
+import cesium from "vite-plugin-cesium-assets";
 
 export default defineConfig({
   plugins: [cesium()],

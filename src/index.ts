@@ -7,7 +7,7 @@ import serveStatic from "serve-static";
  * @param baseUrl default: cesium
  * @param sourceBaseUrl default: node_modules/cesium/Build/Cesium
  */
-export default function cesiumMini(options?: {
+export default function cesiumAssets(options?: {
   baseUrl?: string;
   sourceBaseUrl?: string;
 }) {

@@ -13,6 +13,6 @@
   "dependencies": {
     "cesium": "^1.135.0",
     "vite": "^7.2.4",
-    "vite-plugin-cesium-mini": "file:.."
+    "vite-plugin-cesium-assets": "file:.."
   }
 }
