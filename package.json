@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-cesium-assets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vite plugin to automatically copy and serve Cesium library assets, enabling seamless Cesium integration in Vite projects.",
   "main": "./lib/index.cjs",
   "module": "./lib/index.mjs",
